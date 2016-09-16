@@ -50,9 +50,14 @@ header p {
   color: #ffffff;
   font-size: 25px;
   font-weight: 300;
-  
-}
 
+}
+.new_container{
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 300;
+
+}
 section .row img {
 
   width: 100%;
